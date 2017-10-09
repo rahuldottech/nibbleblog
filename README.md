@@ -1,5 +1,8 @@
 [Nibbleblog](http://www.nibbleblog.com/)
 ================================================
+### **_Note:_ Nibbleblog has been depreciated and only recieves security updates. You might want to check [Bludit](https://www.bludit.com/) out instead...**
+
+------------
 
 Nibbleblog is a powerful engine for creating blogs, all you need is PHP to work.
 
